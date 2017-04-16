@@ -1,0 +1,23 @@
+html, body {
+  height: 100%;
+  padding: 0px;
+  margin: 0px;
+}
+
+.campos {
+  background-color: #f4f4f4;
+  border-radius: 5px;
+  border-color: gray;
+  border-width: thin;
+  height: 25px;
+  font-size: 16px;
+}
+
+.camposdestacados {
+  background-color: #ffc2c2;
+  border-radius: 5px;
+  border-color: gray;
+  border-width: thin;
+  height: 25px;
+  font-size: 16px;
+}

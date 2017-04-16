@@ -1,0 +1,72 @@
+html, body {
+  height: 100%;
+  padding: 0px;
+  margin: 0px;
+}
+
+button {
+  background-color: #e8e8e8;
+  border: none;
+  margin-left: 5px;
+  color: gray;
+  width: 45%;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+
+}
+
+h1 {
+  text-align: center;
+  font-family: Helvetica, sans-serif;
+  color: gray;
+}
+
+.campos {
+  background-color: #f4f4f4;
+  border-color: white;
+  border-width: thin;
+  height: 30px;
+  font-size: 16px;
+  margin-top: 5%;
+  margin-left: 2%;
+  width: 95%;
+  text-indent: 10px;
+
+}
+
+.camposdestacados {
+  background-color: #ffcccc;
+  border-color: red;
+  border-width: thin;
+  height: 30px;
+  font-size: 16px;
+  margin-top: 5%;
+  margin-left: 2%;
+  width: 95%;
+  text-indent: 10px;
+}
+
+#principal {
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  position: static;
+  background-color: #c2caff;
+  width: 70%;
+  height: 60%;
+
+}
+
+#buttons {
+  width: 70%;
+  height: 40%;
+  margin: auto;
+  margin-top: 20%;
+  left: 0;
+  right: 0;
+  position: relative;
+}
